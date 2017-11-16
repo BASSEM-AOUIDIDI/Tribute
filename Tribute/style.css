@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: silver;
+}
+
+#wrap{
+   border: solid 5px black;
+   width: 75%;
+   margin: 0 auto;
+   text-align: center;
+   background-color: white;
+   padding: 15px;
+   
+}
+
+#header1{
+	background-color:silver;
+	padding: 20px;
+	text-align: center;
+	}
+h1{
+	color: black;
+	}
+
+	
+#parag1{
+text-align: center;
+margin: auto;
+width: 600px;
+
+background-color: white;
+}
+
+.description {
+	text-align: justify;
+	line-height: 27px;
+}
+#footer{
+	color: black;
+	text-align: center;
+	background-color: silver;
+font-size: 20px;
+}
